@@ -1,0 +1,82 @@
+[{
+        "nombre": "Lomo",
+        "precio": 2000,
+        "cod": 0,
+        "ingredientes": ["Bife de bola de lomo", "Tomate", "Lechuga", "Jamon", "Queso", "Mayonesa"],
+        "img": "img/lomo.jpg",
+        "link": "indexLomo.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Bondiola",
+        "precio": 2000,
+        "cod": 1,
+        "ingredientes": ["Bife de bondiola de cerdo", "Tomate", "Lechuga", "Jamon", "Queso", "Mayonesa"],
+        "img": "img/bondiola.jpg",
+        "link": "indexBondiola.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Hambuguesa",
+        "precio": 1500,
+        "cod": 2,
+        "ingredientes": ["Medallon de carne", "Tomate", "Lechuga", "Jamon", "Queso", "Mayonesa"],
+        "img": "img/hamburguesa.jpg",
+        "link": "indexHamburguesa.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Pizza Muzzarela",
+        "precio": 3000,
+        "cod": 3,
+        "ingredientes": ["Queso muzarella", "Aceitunas", "Oregano"],
+        "img": "img/muzza.jpg",
+        "link": "indexMuzzarela.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Pizza Napolitana",
+        "precio": 3000,
+        "cod": 4,
+        "ingredientes": ["Queso muzarella", "Tomate", "Ajo", "Aceitunas", "Oregano"],
+        "img": "img/napo.jpg",
+        "link": "indexNapolitana.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Pizza Especial",
+        "precio": 3000,
+        "cod": 5,
+        "ingredientes": ["Queso muzarella", "Jamon cocido", "Huevo", "Morron", "Aceitunas", "Oregano"],
+        "img": "img/especial.jpg",
+        "link": "indexEspecial.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Pancho al Vapor",
+        "precio": 950,
+        "cod": 6,
+        "ingredientes": ["Pancho al vapor", "Aderezo a eleccion", "Papas pay"],
+        "img": "img/pancho.jpg",
+        "link": "indexPancho.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Papas en Bandeja",
+        "precio": 1000,
+        "cod": 7,
+        "ingredientes": ["Papas con aderezo a eleccion"],
+        "img": "img/bandeja.jpg",
+        "link": "indexBandeja.html",
+        "cantidadEnCarrito": 1
+    },
+    {
+        "nombre": "Gaseosa",
+        "precio": 500,
+        "cod": 8,
+        "ingredientes": ["Coca", "Fanta", "o Sprite"],
+        "img": "img/gaseosa.jpg",
+        "link": "indexGaseosa.html",
+        "cantidadEnCarrito": 1
+    }
+]
